@@ -1,0 +1,321 @@
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App
+
+04/04/2026  08:36 AM    <DIR>          .
+04/05/2026  09:01 PM    <DIR>          ..
+04/05/2026  04:49 PM            10,908 AI_Assistant.py
+04/01/2026  09:30 AM    <DIR>          assets
+04/03/2026  09:37 PM               574 assistants.json
+04/02/2026  01:51 PM    <DIR>          characters
+04/04/2026  08:02 PM    <DIR>          config
+04/22/2026  11:29 AM    <DIR>          conversations
+04/01/2026  08:45 PM    <DIR>          dialog_packs
+04/03/2026  09:39 PM    <DIR>          docs
+04/01/2026  09:22 AM    <DIR>          gitignore
+04/01/2026  01:29 PM    <DIR>          Screenshots
+04/01/2026  09:21 AM    <DIR>          scripts
+04/02/2026  06:58 PM    <DIR>          SRC
+04/01/2026  09:33 AM    <DIR>          tests
+04/02/2026  03:45 PM               337 test_Sakura_Engine.py
+04/05/2026  04:05 PM                38 user_settings.json
+04/03/2026  08:11 PM                 0 __init__.py
+               5 File(s)         11,857 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets
+
+04/01/2026  09:30 AM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/01/2026  09:28 AM    <DIR>          backgrounds
+04/01/2026  09:27 AM    <DIR>          characters
+04/01/2026  09:30 AM    <DIR>          Icons
+04/01/2026  09:30 AM    <DIR>          sounds
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\backgrounds
+
+04/01/2026  09:28 AM    <DIR>          .
+04/01/2026  09:30 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters
+
+04/01/2026  09:27 AM    <DIR>          .
+04/01/2026  09:30 AM    <DIR>          ..
+04/01/2026  09:27 AM    <DIR>          Chizaru
+04/01/2026  09:26 AM    <DIR>          Origami
+04/01/2026  09:27 AM    <DIR>          Saki
+04/04/2026  09:15 PM    <DIR>          Sakura
+04/01/2026  09:27 AM    <DIR>          Yuki
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters\Chizaru
+
+04/01/2026  09:27 AM    <DIR>          .
+04/01/2026  09:27 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters\Origami
+
+04/01/2026  09:26 AM    <DIR>          .
+04/01/2026  09:27 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters\Saki
+
+04/01/2026  09:27 AM    <DIR>          .
+04/01/2026  09:27 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters\Sakura
+
+04/04/2026  09:15 PM    <DIR>          .
+04/01/2026  09:27 AM    <DIR>          ..
+07/01/2025  08:52 AM         2,683,155 placeholder.png
+               1 File(s)      2,683,155 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\characters\Yuki
+
+04/01/2026  09:27 AM    <DIR>          .
+04/01/2026  09:27 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\Icons
+
+04/01/2026  09:30 AM    <DIR>          .
+04/01/2026  09:30 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\sounds
+
+04/01/2026  09:30 AM    <DIR>          .
+04/01/2026  09:30 AM    <DIR>          ..
+04/01/2026  09:30 AM    <DIR>          UI
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\assets\sounds\UI
+
+04/01/2026  09:30 AM    <DIR>          .
+04/01/2026  09:30 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\characters
+
+04/02/2026  01:51 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/02/2026  01:52 PM             3,367 Sakura.json
+               1 File(s)          3,367 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\config
+
+04/04/2026  08:02 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/04/2026  08:05 PM               208 api_key.json
+04/01/2026  08:59 PM             2,482 sakura_behavior.json
+04/01/2026  08:57 PM             3,322 sakura_emotion.json
+               3 File(s)          6,012 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\conversations
+
+04/22/2026  11:29 AM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\dialog_packs
+
+04/01/2026  08:45 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/04/2026  08:24 PM    <DIR>          Sakura_Dialog
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\dialog_packs\Sakura_Dialog
+
+04/04/2026  08:24 PM    <DIR>          .
+04/01/2026  08:45 PM    <DIR>          ..
+04/01/2026  08:46 PM             3,684 Sakura Dialog.json
+               1 File(s)          3,684 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\docs
+
+04/03/2026  09:39 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/03/2026  09:39 PM            25,756 Character BluePrints.docx
+03/31/2026  09:05 PM            57,495 Multi-Character Desktop Assistant - Full Design Blueprint.docx
+               2 File(s)         83,251 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\gitignore
+
+04/01/2026  09:22 AM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\Screenshots
+
+04/01/2026  01:29 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/01/2026  12:40 PM            32,240 Screenshot 2026-04-01 124056.png
+04/01/2026  12:41 PM            41,067 Screenshot 2026-04-01 124154.png
+               2 File(s)         73,307 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\scripts
+
+04/01/2026  09:21 AM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC
+
+04/02/2026  06:58 PM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/02/2026  06:58 PM    <DIR>          Components
+04/01/2026  09:17 AM    <DIR>          hooks
+04/01/2026  09:17 AM    <DIR>          Services
+04/01/2026  09:16 AM    <DIR>          Stores
+04/02/2026  02:55 PM    <DIR>          Systems
+04/01/2026  09:17 AM    <DIR>          types
+04/01/2026  09:24 AM    <DIR>          utils
+04/02/2026  02:41 PM                 0 __init__.py
+04/02/2026  02:44 PM    <DIR>          __pycache__
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Components
+
+04/02/2026  06:58 PM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+04/05/2026  04:49 PM             3,809 AssistantSelectionWindow.py
+04/05/2026  04:49 PM            10,662 chat_window.py
+04/02/2026  06:50 PM                 0 __init__.py
+04/14/2026  10:36 AM    <DIR>          __pycache__
+               3 File(s)         14,471 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Components\__pycache__
+
+04/14/2026  10:36 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+04/14/2026  10:36 AM             5,310 AssistantSelectionWindow.cpython-313.pyc
+04/14/2026  10:36 AM            13,308 chat_window.cpython-313.pyc
+04/02/2026  06:58 PM               176 __init__.cpython-313.pyc
+               3 File(s)         18,794 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\hooks
+
+04/01/2026  09:17 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Services
+
+04/01/2026  09:17 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Stores
+
+04/01/2026  09:16 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Systems
+
+04/02/2026  02:55 PM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+04/05/2026  06:08 PM    <DIR>          AssistantEngines
+04/05/2026  04:49 PM             5,064 conversation_manager.py
+04/02/2026  02:43 PM                 0 __init__.py
+04/14/2026  10:35 AM    <DIR>          __pycache__
+               2 File(s)          5,064 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Systems\AssistantEngines
+
+04/05/2026  06:08 PM    <DIR>          .
+04/02/2026  02:55 PM    <DIR>          ..
+04/02/2026  02:21 PM             1,946 comfort_manager.py
+04/02/2026  02:35 PM             1,138 dialogue_selector.py
+04/02/2026  02:20 PM             1,446 emotion_manager.py
+04/04/2026  06:19 PM             2,537 OrigamiEngine.py
+04/02/2026  02:26 PM             1,948 prompt_builder.py
+04/05/2026  06:08 PM             2,461 SakiEngine.py
+04/14/2026  10:55 AM             3,441 SakuraEngine.py
+04/02/2026  02:13 PM               984 tone_detector.py
+04/02/2026  02:44 PM                 0 __init__.py
+04/22/2026  11:23 AM    <DIR>          __pycache__
+               9 File(s)         15,901 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Systems\AssistantEngines\__pycache__
+
+04/22/2026  11:23 AM    <DIR>          .
+04/05/2026  06:08 PM    <DIR>          ..
+04/02/2026  02:59 PM             2,149 comfort_manager.cpython-313.pyc
+04/02/2026  02:59 PM             1,474 dialogue_selector.cpython-313.pyc
+04/02/2026  02:59 PM             1,464 emotion_manager.cpython-313.pyc
+04/04/2026  08:29 PM             3,462 OrigamiEngine.cpython-313.pyc
+04/02/2026  02:59 PM             2,632 prompt_builder.cpython-313.pyc
+04/22/2026  11:23 AM             4,788 SakuraEngine.cpython-313.pyc
+04/02/2026  02:59 PM             1,494 tone_detector.cpython-313.pyc
+04/02/2026  02:56 PM               190 __init__.cpython-313.pyc
+               8 File(s)         17,653 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\Systems\__pycache__
+
+04/14/2026  10:35 AM    <DIR>          .
+04/02/2026  02:55 PM    <DIR>          ..
+04/14/2026  10:35 AM             6,119 conversation_manager.cpython-313.pyc
+04/02/2026  02:44 PM               173 __init__.cpython-313.pyc
+               2 File(s)          6,292 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\types
+
+04/01/2026  09:17 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\utils
+
+04/01/2026  09:24 AM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\SRC\__pycache__
+
+04/02/2026  02:44 PM    <DIR>          .
+04/02/2026  06:58 PM    <DIR>          ..
+04/02/2026  02:44 PM               165 __init__.cpython-313.pyc
+               1 File(s)            165 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\tests
+
+04/01/2026  09:33 AM    <DIR>          .
+04/04/2026  08:36 AM    <DIR>          ..
+04/01/2026  09:32 AM    <DIR>          Componets
+04/01/2026  09:32 AM    <DIR>          fixtures
+04/01/2026  09:32 AM    <DIR>          Integration
+04/01/2026  09:31 AM    <DIR>          systems
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\tests\Componets
+
+04/01/2026  09:32 AM    <DIR>          .
+04/01/2026  09:33 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\tests\fixtures
+
+04/01/2026  09:32 AM    <DIR>          .
+04/01/2026  09:33 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\tests\Integration
+
+04/01/2026  09:32 AM    <DIR>          .
+04/01/2026  09:33 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App\tests\systems
+
+04/01/2026  09:31 AM    <DIR>          .
+04/01/2026  09:33 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              44 File(s)      2,942,973 bytes
+             116 Dir(s)  632,579,391,488 bytes free
+
+C:\Users\Your Name Here\Documents\AI Assistants\Assistant_App>
