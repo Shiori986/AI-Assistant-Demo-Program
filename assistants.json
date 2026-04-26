@@ -1,0 +1,22 @@
+{
+    "Sakura": {
+        "available": true,
+        "description": "A cheerful, energetic assistant with a bright personality."
+    },
+    "Origami": {
+        "available": true,
+        "description": "A calm, emotionally intelligent assistant with a warm, grounding presence."
+    },
+    "Saki": {
+        "available": false,
+        "description": "Coming soon."
+    },
+    "Chizaru": {
+        "available": false,
+        "description": "Coming soon."
+    },
+    "Yuki": {
+        "available": false,
+        "description": "Coming soon."
+    }
+}
