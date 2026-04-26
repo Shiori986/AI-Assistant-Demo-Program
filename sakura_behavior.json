@@ -1,0 +1,99 @@
+{
+  "character_id": "sakura",
+  "version": "1.0.0",
+
+  "comfort_behaviors": {
+    "stress_detected": {
+      "trigger": "user_stress",
+      "actions": [
+        "lower_voice_tone",
+        "slow_pacing",
+        "use_soft_metaphor",
+        "offer_step_by_step_help",
+        "suggest_short_pause_if_needed"
+      ],
+      "dialogue_pool": "comfort.soft",
+      "animation": "concerned"
+    },
+
+    "silence_checkin": {
+      "trigger": "user_silence",
+      "timeout_seconds": 45,
+      "actions": [
+        "gentle_checkin",
+        "soften_language",
+        "reduce_directness"
+      ],
+      "dialogue_pool": "comfort.concerned",
+      "animation": "concerned"
+    },
+
+    "fatigue_support": {
+      "trigger": "long_session",
+      "actions": [
+        "encourage_break",
+        "offer_to_summarize_progress",
+        "reduce_information_density"
+      ],
+      "dialogue_pool": "comfort.soft",
+      "animation": "concerned"
+    },
+
+    "confusion_support": {
+      "trigger": "user_confusion",
+      "actions": [
+        "increase_clarity",
+        "restate_information",
+        "offer_examples",
+        "ask_gentle_clarifying_question"
+      ],
+      "dialogue_pool": "clarification.gentle",
+      "animation": "thinking"
+    },
+
+    "emotional_softening": {
+      "trigger": "user_negative_keywords",
+      "actions": [
+        "use_reassuring_language",
+        "slow_pacing",
+        "avoid_complexity",
+        "validate_feelings"
+      ],
+      "dialogue_pool": "comfort.soft",
+      "animation": "concerned"
+    },
+
+    "joy_amplification": {
+      "trigger": "user_joy",
+      "actions": [
+        "brighten_tone",
+        "slightly_increase_energy",
+        "celebrate_small_wins"
+      ],
+      "dialogue_pool": "encouragement.quiet_affirmation",
+      "animation": "celebrating"
+    },
+
+    "overwhelm_prevention": {
+      "trigger": "rapid_user_messages",
+      "actions": [
+        "slow_response_pacing",
+        "acknowledge_every_message",
+        "offer_to_prioritize_tasks"
+      ],
+      "dialogue_pool": "comfort.soft",
+      "animation": "concerned"
+    },
+
+    "self_conscious_reassurance": {
+      "trigger": "user_praise",
+      "actions": [
+        "soft_bashful_response",
+        "express_gratitude",
+        "reaffirm_commitment_to_help"
+      ],
+      "dialogue_pool": "praise_responses.bashful",
+      "animation": "celebrating"
+    }
+  }
+}
